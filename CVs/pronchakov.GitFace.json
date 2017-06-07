@@ -1,0 +1,705 @@
+{
+    "repos": [
+        {
+            "createdAt": "2017-04-09T10:09:59Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4NzY5OTU2NA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": null,
+                            "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                            "name": "CMake"
+                        },
+                        "size": 97372
+                    },
+                    {
+                        "node": {
+                            "color": "#f34b7d",
+                            "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                            "name": "C++"
+                        },
+                        "size": 2342
+                    }
+                ]
+            },
+            "name": "generate-ppm",
+            "owner": {
+                "login": "pronchakov"
+            },
+            "primaryLanguage": {
+                "color": null,
+                "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                "name": "CMake"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 2531,
+                "ball": 0.4512409623782044,
+                "dels": 0,
+                "empty": [
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 9,
+                "total_commits": 1,
+                "weeks": [
+                    {
+                        "a": 2531,
+                        "c": 1,
+                        "d": 0,
+                        "w": 1491696000
+                    }
+                ]
+            },
+            "updatedAt": "2017-04-09T10:49:39Z",
+            "url": "https://github.com/pronchakov/generate-ppm",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2017-04-15T21:09:12Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4ODM3NDI1MQ==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": null,
+                            "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                            "name": "CMake"
+                        },
+                        "size": 97463
+                    },
+                    {
+                        "node": {
+                            "color": "#f34b7d",
+                            "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                            "name": "C++"
+                        },
+                        "size": 3987
+                    }
+                ]
+            },
+            "name": "joystick-ppm",
+            "owner": {
+                "login": "pronchakov"
+            },
+            "primaryLanguage": {
+                "color": null,
+                "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                "name": "CMake"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 2681,
+                "ball": 0.46990707614713517,
+                "dels": 65,
+                "empty": [
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 8,
+                "total_commits": 4,
+                "weeks": [
+                    {
+                        "a": 2681,
+                        "c": 3,
+                        "d": 63,
+                        "w": 1492300800
+                    },
+                    {
+                        "a": 0,
+                        "c": 1,
+                        "d": 2,
+                        "w": 1492905600
+                    }
+                ]
+            },
+            "updatedAt": "2017-04-15T21:09:47Z",
+            "url": "https://github.com/pronchakov/joystick-ppm",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2017-04-29T19:22:01Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4OTgwNzQxMQ==",
+            "isFork": false,
+            "languages": {
+                "edges": []
+            },
+            "name": "skymule-design",
+            "owner": {
+                "login": "pronchakov"
+            },
+            "primaryLanguage": null,
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 56,
+                "ball": 0.011168756587801327,
+                "dels": 0,
+                "empty": [
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 7,
+                "total_commits": 1,
+                "weeks": [
+                    {
+                        "a": 56,
+                        "c": 1,
+                        "d": 0,
+                        "w": 1492905600
+                    }
+                ]
+            },
+            "updatedAt": "2017-04-29T19:23:04Z",
+            "url": "https://github.com/pronchakov/skymule-design",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2017-04-04T20:04:48Z",
+            "description": "Read data from USB HID Joystick using USB Shield for Arduino",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4NzIyOTgzMw==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": null,
+                            "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                            "name": "CMake"
+                        },
+                        "size": 97449
+                    },
+                    {
+                        "node": {
+                            "color": "#f34b7d",
+                            "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                            "name": "C++"
+                        },
+                        "size": 4365
+                    },
+                    {
+                        "node": {
+                            "color": "#C1F12E",
+                            "id": "MDg6TGFuZ3VhZ2U0NjM=",
+                            "name": "Batchfile"
+                        },
+                        "size": 2747
+                    }
+                ]
+            },
+            "name": "joystick-read",
+            "owner": {
+                "login": "pronchakov"
+            },
+            "primaryLanguage": {
+                "color": null,
+                "id": "MDg6TGFuZ3VhZ2U0NDA=",
+                "name": "CMake"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 31560,
+                "ball": 2.062949675361237,
+                "dels": 27016,
+                "empty": [
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 10,
+                "total_commits": 3,
+                "weeks": [
+                    {
+                        "a": 31473,
+                        "c": 2,
+                        "d": 11382,
+                        "w": 1491091200
+                    },
+                    {
+                        "a": 87,
+                        "c": 1,
+                        "d": 15634,
+                        "w": 1491696000
+                    }
+                ]
+            },
+            "updatedAt": "2017-04-09T19:52:31Z",
+            "url": "https://github.com/pronchakov/joystick-read",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2014-02-03T11:33:41Z",
+            "description": "This repository is for advanced course examples ",
+            "forks": {
+                "totalCount": 36
+            },
+            "homepageUrl": "http://java-course.ru/courses/javaee",
+            "id": "MDEwOlJlcG9zaXRvcnkxNjQ3NzY0MA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 819507
+                    },
+                    {
+                        "node": {
+                            "color": "#e34c26",
+                            "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                            "name": "HTML"
+                        },
+                        "size": 51899
+                    },
+                    {
+                        "node": {
+                            "color": "#563d7c",
+                            "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                            "name": "CSS"
+                        },
+                        "size": 6597
+                    },
+                    {
+                        "node": {
+                            "color": "#f1e05a",
+                            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                            "name": "JavaScript"
+                        },
+                        "size": 186328
+                    },
+                    {
+                        "node": {
+                            "color": "#EB8CEB",
+                            "id": "MDg6TGFuZ3VhZ2UzMDI=",
+                            "name": "XSLT"
+                        },
+                        "size": 1122
+                    }
+                ]
+            },
+            "name": "java-course-ee",
+            "owner": {
+                "login": "java-course-ee"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 15
+            },
+            "statistic": {
+                "adds": 555264,
+                "ball": 14.814281967378221,
+                "dels": 1033003,
+                "empty": [
+                    1391299200,
+                    1391904000,
+                    1392508800,
+                    1393113600,
+                    1393718400,
+                    1394323200,
+                    1394928000,
+                    1395532800,
+                    1396137600,
+                    1396742400,
+                    1397347200,
+                    1397952000,
+                    1398556800,
+                    1399161600,
+                    1399766400,
+                    1400371200,
+                    1400976000,
+                    1401580800,
+                    1402185600,
+                    1402790400,
+                    1403395200,
+                    1404000000,
+                    1404604800,
+                    1405209600,
+                    1405814400,
+                    1406419200,
+                    1407024000,
+                    1407628800,
+                    1408233600,
+                    1408838400,
+                    1409443200,
+                    1410048000,
+                    1410652800,
+                    1411862400,
+                    1419120000,
+                    1419724800,
+                    1420329600,
+                    1420934400,
+                    1421539200,
+                    1422144000,
+                    1422748800,
+                    1423353600,
+                    1423958400,
+                    1424563200,
+                    1427587200,
+                    1428192000,
+                    1428796800,
+                    1431216000,
+                    1431820800,
+                    1433030400,
+                    1433635200,
+                    1434240000,
+                    1434844800,
+                    1435449600,
+                    1436054400,
+                    1436659200,
+                    1437868800,
+                    1438473600,
+                    1439683200,
+                    1440288000,
+                    1440892800,
+                    1441497600,
+                    1442102400,
+                    1442707200,
+                    1443312000,
+                    1443916800,
+                    1444521600,
+                    1445126400,
+                    1445731200,
+                    1446336000,
+                    1446940800,
+                    1447545600,
+                    1448755200,
+                    1449360000,
+                    1449964800,
+                    1450569600,
+                    1451174400,
+                    1451779200,
+                    1452384000,
+                    1452988800,
+                    1453593600,
+                    1454198400,
+                    1454803200,
+                    1455408000,
+                    1456012800,
+                    1457827200,
+                    1458432000,
+                    1460851200,
+                    1461456000,
+                    1462060800,
+                    1462665600,
+                    1463270400,
+                    1464480000,
+                    1465084800,
+                    1465689600,
+                    1466294400,
+                    1466899200,
+                    1467504000,
+                    1468108800,
+                    1468713600,
+                    1469318400,
+                    1469923200,
+                    1470528000,
+                    1471132800,
+                    1471737600,
+                    1472342400,
+                    1472947200,
+                    1473552000,
+                    1474156800,
+                    1474761600,
+                    1475366400,
+                    1475971200,
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 175,
+                "total_commits": 213,
+                "weeks": [
+                    {
+                        "a": 4153,
+                        "c": 3,
+                        "d": 32710,
+                        "w": 1411257600
+                    },
+                    {
+                        "a": 100894,
+                        "c": 6,
+                        "d": 3067,
+                        "w": 1412467200
+                    },
+                    {
+                        "a": 283,
+                        "c": 1,
+                        "d": 2895,
+                        "w": 1413072000
+                    },
+                    {
+                        "a": 340072,
+                        "c": 24,
+                        "d": 325046,
+                        "w": 1413676800
+                    },
+                    {
+                        "a": 2833,
+                        "c": 9,
+                        "d": 862,
+                        "w": 1414281600
+                    },
+                    {
+                        "a": 1825,
+                        "c": 11,
+                        "d": 278,
+                        "w": 1414886400
+                    },
+                    {
+                        "a": 39651,
+                        "c": 18,
+                        "d": 601785,
+                        "w": 1415491200
+                    },
+                    {
+                        "a": 1215,
+                        "c": 12,
+                        "d": 1599,
+                        "w": 1416096000
+                    },
+                    {
+                        "a": 5604,
+                        "c": 12,
+                        "d": 3530,
+                        "w": 1416700800
+                    },
+                    {
+                        "a": 301,
+                        "c": 5,
+                        "d": 61,
+                        "w": 1417305600
+                    },
+                    {
+                        "a": 1,
+                        "c": 1,
+                        "d": 1,
+                        "w": 1417910400
+                    },
+                    {
+                        "a": 3313,
+                        "c": 14,
+                        "d": 2587,
+                        "w": 1418515200
+                    },
+                    {
+                        "a": 3259,
+                        "c": 14,
+                        "d": 1867,
+                        "w": 1425168000
+                    },
+                    {
+                        "a": 41961,
+                        "c": 19,
+                        "d": 47246,
+                        "w": 1425772800
+                    },
+                    {
+                        "a": 576,
+                        "c": 5,
+                        "d": 346,
+                        "w": 1426377600
+                    },
+                    {
+                        "a": 950,
+                        "c": 6,
+                        "d": 38,
+                        "w": 1426982400
+                    },
+                    {
+                        "a": 1333,
+                        "c": 1,
+                        "d": 0,
+                        "w": 1429401600
+                    },
+                    {
+                        "a": 462,
+                        "c": 2,
+                        "d": 242,
+                        "w": 1430006400
+                    },
+                    {
+                        "a": 2,
+                        "c": 1,
+                        "d": 2,
+                        "w": 1430611200
+                    },
+                    {
+                        "a": 1655,
+                        "c": 7,
+                        "d": 4,
+                        "w": 1432425600
+                    },
+                    {
+                        "a": 14,
+                        "c": 1,
+                        "d": 126,
+                        "w": 1437264000
+                    },
+                    {
+                        "a": 226,
+                        "c": 2,
+                        "d": 6,
+                        "w": 1439078400
+                    },
+                    {
+                        "a": 1452,
+                        "c": 9,
+                        "d": 222,
+                        "w": 1448150400
+                    },
+                    {
+                        "a": 501,
+                        "c": 3,
+                        "d": 316,
+                        "w": 1456617600
+                    },
+                    {
+                        "a": 514,
+                        "c": 11,
+                        "d": 6969,
+                        "w": 1457222400
+                    },
+                    {
+                        "a": 97,
+                        "c": 1,
+                        "d": 0,
+                        "w": 1459036800
+                    },
+                    {
+                        "a": 622,
+                        "c": 4,
+                        "d": 104,
+                        "w": 1459641600
+                    },
+                    {
+                        "a": 702,
+                        "c": 6,
+                        "d": 996,
+                        "w": 1460246400
+                    },
+                    {
+                        "a": 202,
+                        "c": 1,
+                        "d": 97,
+                        "w": 1463875200
+                    },
+                    {
+                        "a": 97,
+                        "c": 1,
+                        "d": 0,
+                        "w": 1489276800
+                    },
+                    {
+                        "a": 494,
+                        "c": 3,
+                        "d": 1,
+                        "w": 1495324800
+                    }
+                ]
+            },
+            "updatedAt": "2017-05-06T21:07:42Z",
+            "url": "https://github.com/java-course-ee/java-course-ee",
+            "watchers": {
+                "totalCount": 15
+            }
+        }
+    ],
+    "summary": {
+        "total_adds": 592092,
+        "total_ball": 17.809548437852598,
+        "total_commits": 222,
+        "total_dels": 1060084
+    }
+}
