@@ -1,5 +1,32 @@
 {
     "CVs": {
+        "Udalov": {
+            "data_url": "https://raw.githubusercontent.com/EvgenyFir/GitFaceCV-storage/master/CVs/Udalov.GitFace.json",
+            "profile_info": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/292714?v=3",
+                "bio": null,
+                "blog": "udalov.org",
+                "company": "JetBrains",
+                "created_at": "2010-05-31T23:41:27Z",
+                "email": null,
+                "followers": 80,
+                "html_url": "https://github.com/udalov",
+                "location": "Saint Petersburg, Russia",
+                "login": "udalov",
+                "name": "Alexander Udalov",
+                "organisations": [
+                    {
+                        "avatar_url": "https://avatars1.githubusercontent.com/u/878437?v=3",
+                        "html_url": "https://github.com/JetBrains",
+                        "login": "JetBrains"
+                    }
+                ],
+                "public_repos": 30,
+                "repos_url": "https://github.com/udalov?tab=repositories"
+            },
+            "sha": "1c7d94ea73b82c296d4cfe4d0eec57db51c65f82",
+            "update_date": 1496856223000
+        },
         "alexogar": {
             "data_url": "https://raw.githubusercontent.com/EvgenyFir/GitFaceCV-storage/master/CVs/alexogar.GitFace.json",
             "profile_info": {
@@ -112,5 +139,5 @@
             "update_date": 1496855688000
         }
     },
-    "records": 4
+    "records": 5
 }
