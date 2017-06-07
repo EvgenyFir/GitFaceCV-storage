@@ -1,0 +1,411 @@
+{
+    "repos": [
+        {
+            "createdAt": "2017-03-29T18:37:31Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4NjYxNjg0NQ==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 216134
+                    }
+                ]
+            },
+            "name": "MunicipaliOmega",
+            "owner": {
+                "login": "SergeyBudnik"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 11343,
+                "ball": 1.3006881164692716,
+                "dels": 4362,
+                "empty": [
+                    1491091200,
+                    1491696000,
+                    1493510400,
+                    1494115200,
+                    1494720000
+                ],
+                "len_weeks": 11,
+                "total_commits": 34,
+                "weeks": [
+                    {
+                        "a": 8317,
+                        "c": 13,
+                        "d": 2311,
+                        "w": 1490486400
+                    },
+                    {
+                        "a": 2534,
+                        "c": 9,
+                        "d": 1824,
+                        "w": 1492300800
+                    },
+                    {
+                        "a": 41,
+                        "c": 3,
+                        "d": 39,
+                        "w": 1492905600
+                    },
+                    {
+                        "a": 6,
+                        "c": 1,
+                        "d": 4,
+                        "w": 1495324800
+                    },
+                    {
+                        "a": 225,
+                        "c": 2,
+                        "d": 140,
+                        "w": 1495929600
+                    },
+                    {
+                        "a": 220,
+                        "c": 6,
+                        "d": 44,
+                        "w": 1496534400
+                    }
+                ]
+            },
+            "updatedAt": "2017-03-29T18:38:28Z",
+            "url": "https://github.com/SergeyBudnik/MunicipaliOmega",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-09-03T13:06:26Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk2NzI5MDU1Mg==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 4170
+                    }
+                ]
+            },
+            "name": "Cleanny",
+            "owner": {
+                "login": "SergeyBudnik"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 4
+            },
+            "statistic": {
+                "adds": 332,
+                "ball": 0.14445526799376146,
+                "dels": 22,
+                "empty": [
+                    1473552000,
+                    1474156800,
+                    1474761600,
+                    1475366400,
+                    1475971200,
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 41,
+                "total_commits": 5,
+                "weeks": [
+                    {
+                        "a": 238,
+                        "c": 3,
+                        "d": 0,
+                        "w": 1472342400
+                    },
+                    {
+                        "a": 94,
+                        "c": 2,
+                        "d": 22,
+                        "w": 1472947200
+                    }
+                ]
+            },
+            "updatedAt": "2016-09-18T19:33:37Z",
+            "url": "https://github.com/SergeyBudnik/Cleanny",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2017-05-29T18:15:18Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk5Mjc2NDMwNg==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 75687
+                    }
+                ]
+            },
+            "name": "MunicipaliAlpha",
+            "owner": {
+                "login": "SergeyBudnik"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 2625,
+                "ball": 0.4661877643347556,
+                "dels": 0,
+                "empty": [
+                    1496534400
+                ],
+                "len_weeks": 2,
+                "total_commits": 1,
+                "weeks": [
+                    {
+                        "a": 2625,
+                        "c": 1,
+                        "d": 0,
+                        "w": 1495929600
+                    }
+                ]
+            },
+            "updatedAt": "2017-05-29T18:15:43Z",
+            "url": "https://github.com/SergeyBudnik/MunicipaliAlpha",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2017-05-09T20:15:15Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk5MDc4Nzg5Mg==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 2132
+                    }
+                ]
+            },
+            "name": "SmartConfigData",
+            "owner": {
+                "login": "SergeyBudnik"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 241,
+                "ball": 0.04499015565474188,
+                "dels": 27,
+                "empty": [
+                    1495324800,
+                    1496534400
+                ],
+                "len_weeks": 5,
+                "total_commits": 7,
+                "weeks": [
+                    {
+                        "a": 94,
+                        "c": 3,
+                        "d": 22,
+                        "w": 1494115200
+                    },
+                    {
+                        "a": 51,
+                        "c": 3,
+                        "d": 3,
+                        "w": 1494720000
+                    },
+                    {
+                        "a": 96,
+                        "c": 1,
+                        "d": 2,
+                        "w": 1495929600
+                    }
+                ]
+            },
+            "updatedAt": "2017-05-09T20:15:29Z",
+            "url": "https://github.com/SergeyBudnik/SmartConfigData",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2017-04-27T22:19:54Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4OTY0NDkzMA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 68461
+                    }
+                ]
+            },
+            "name": "SmartConfig",
+            "owner": {
+                "login": "SergeyBudnik"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 4
+            },
+            "statistic": {
+                "adds": 4430,
+                "ball": 1.4932179108532726,
+                "dels": 2201,
+                "empty": [
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 7,
+                "total_commits": 36,
+                "weeks": [
+                    {
+                        "a": 450,
+                        "c": 8,
+                        "d": 79,
+                        "w": 1492905600
+                    },
+                    {
+                        "a": 915,
+                        "c": 5,
+                        "d": 110,
+                        "w": 1493510400
+                    },
+                    {
+                        "a": 1131,
+                        "c": 6,
+                        "d": 649,
+                        "w": 1494115200
+                    },
+                    {
+                        "a": 1835,
+                        "c": 12,
+                        "d": 1355,
+                        "w": 1494720000
+                    },
+                    {
+                        "a": 99,
+                        "c": 5,
+                        "d": 8,
+                        "w": 1495324800
+                    }
+                ]
+            },
+            "updatedAt": "2017-05-11T12:23:52Z",
+            "url": "https://github.com/SergeyBudnik/SmartConfig",
+            "watchers": {
+                "totalCount": 2
+            }
+        }
+    ],
+    "summary": {
+        "total_adds": 18971,
+        "total_ball": 3.449539215305803,
+        "total_commits": 83,
+        "total_dels": 6612
+    }
+}
