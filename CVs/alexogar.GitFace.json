@@ -1,0 +1,105 @@
+{
+    "repos": [
+        {
+            "createdAt": "2016-11-01T00:14:49Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk3MjQ4ODg1NA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#f1e05a",
+                            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                            "name": "JavaScript"
+                        },
+                        "size": 199
+                    },
+                    {
+                        "node": {
+                            "color": "#2b7489",
+                            "id": "MDg6TGFuZ3VhZ2UyODc=",
+                            "name": "TypeScript"
+                        },
+                        "size": 21307
+                    }
+                ]
+            },
+            "name": "tstomation",
+            "owner": {
+                "login": "alexogar"
+            },
+            "primaryLanguage": {
+                "color": "#2b7489",
+                "id": "MDg6TGFuZ3VhZ2UyODc=",
+                "name": "TypeScript"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 905,
+                "ball": 0.1704278584289616,
+                "dels": 31,
+                "empty": [
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 32,
+                "total_commits": 14,
+                "weeks": [
+                    {
+                        "a": 905,
+                        "c": 14,
+                        "d": 31,
+                        "w": 1477785600
+                    }
+                ]
+            },
+            "updatedAt": "2016-11-01T00:16:45Z",
+            "url": "https://github.com/alexogar/tstomation",
+            "watchers": {
+                "totalCount": 1
+            }
+        }
+    ],
+    "summary": {
+        "total_adds": 905,
+        "total_ball": 0.1704278584289616,
+        "total_commits": 14,
+        "total_dels": 31
+    }
+}
