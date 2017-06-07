@@ -106,6 +106,33 @@
             "sha": "3dee451d535b09422e6640ce7a7bf71299040cd4",
             "update_date": 1496770613000
         },
+        "mudalov": {
+            "data_url": "https://raw.githubusercontent.com/EvgenyFir/GitFaceCV-storage/master/CVs/mudalov.GitFace.json",
+            "profile_info": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/2630842?v=3",
+                "bio": null,
+                "blog": "",
+                "company": "Deutsche Bank",
+                "created_at": "2012-10-23T10:51:08Z",
+                "email": null,
+                "followers": 4,
+                "html_url": "https://github.com/mudalov",
+                "location": "Saint-Petersburg, Russia",
+                "login": "mudalov",
+                "name": "Mikhail Udalov",
+                "organisations": [
+                    {
+                        "avatar_url": "https://avatars2.githubusercontent.com/u/15713178?v=3",
+                        "html_url": "https://github.com/sniffy",
+                        "login": "sniffy"
+                    }
+                ],
+                "public_repos": 7,
+                "repos_url": "https://github.com/mudalov?tab=repositories"
+            },
+            "sha": "add6f85a86f32564bbf497133802b63c06bf011a",
+            "update_date": 1496856238000
+        },
         "pronchakov": {
             "data_url": "https://raw.githubusercontent.com/EvgenyFir/GitFaceCV-storage/master/CVs/pronchakov.GitFace.json",
             "profile_info": {
@@ -139,5 +166,5 @@
             "update_date": 1496855688000
         }
     },
-    "records": 5
+    "records": 6
 }
