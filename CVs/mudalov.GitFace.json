@@ -1,0 +1,72 @@
+{
+    "repos": [
+        {
+            "createdAt": "2017-04-29T10:55:53Z",
+            "description": "Examples of Inter Window Communication within Browser",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4OTc3OTg0NQ==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#2b7489",
+                            "id": "MDg6TGFuZ3VhZ2UyODc=",
+                            "name": "TypeScript"
+                        },
+                        "size": 206
+                    }
+                ]
+            },
+            "name": "iwc-examples",
+            "owner": {
+                "login": "mudalov"
+            },
+            "primaryLanguage": {
+                "color": "#2b7489",
+                "id": "MDg6TGFuZ3VhZ2UyODc=",
+                "name": "TypeScript"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 361,
+                "ball": 0.06580543935141558,
+                "dels": 53,
+                "empty": [
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600,
+                    1496534400
+                ],
+                "len_weeks": 7,
+                "total_commits": 4,
+                "weeks": [
+                    {
+                        "a": 361,
+                        "c": 4,
+                        "d": 53,
+                        "w": 1492905600
+                    }
+                ]
+            },
+            "updatedAt": "2017-04-29T12:29:18Z",
+            "url": "https://github.com/mudalov/iwc-examples",
+            "watchers": {
+                "totalCount": 1
+            }
+        }
+    ],
+    "summary": {
+        "total_adds": 361,
+        "total_ball": 0.06580543935141558,
+        "total_commits": 4,
+        "total_dels": 53
+    }
+}
